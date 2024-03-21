@@ -13,6 +13,7 @@ You may also need to download additional resources such as corpora or models. NL
 
 
 import nltk
+
 nltk.download('all')
 
 For more information on installation and downloading resources, refer to the NLTK documentation.
