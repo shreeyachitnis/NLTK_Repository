@@ -7,7 +7,6 @@ NLTK provides a wide range of functionalities for various NLP tasks, including t
 ## Installation
 To install NLTK, you can use pip, the Python package manager. Run the following command in your terminal:
 
-Copy code
 pip install nltk
 You may also need to download additional resources such as corpora or models. NLTK provides a convenient way to do this through its downloader. Run the following Python script after installing NLTK to download all resources:
 
