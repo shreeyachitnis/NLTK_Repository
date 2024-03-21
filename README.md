@@ -11,10 +11,10 @@ pip install nltk
 
 You may also need to download additional resources such as corpora or models. NLTK provides a convenient way to do this through its downloader. Run the following Python script after installing NLTK to download all resources:
 
-python
-Copy code
+
 import nltk
 nltk.download('all')
+
 For more information on installation and downloading resources, refer to the NLTK documentation.
 
 ## Quick Start Tutorial
